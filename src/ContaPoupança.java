@@ -1,4 +1,5 @@
 
-public class ContaPoupança {
+public class ContaPoupança extends Conta {
+	
 
 }
